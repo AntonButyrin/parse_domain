@@ -3,7 +3,7 @@ A simple and convenient solution for enumerating the base of domains and finding
 The parser is convenient in that it is fully automated, if the domain is crooked, it will continue to work, just as invalid domains are simply deleted from the file that is parsed.
 ##instructions for install:
 1. Downloading the repository:
->![img_1.png](img_1.png)
+>![img_1.png](https://skr.sh/s92kG13xFgw?a)
 2. Install the whois alt package:
 >pip install whois-alt
 3. Done
